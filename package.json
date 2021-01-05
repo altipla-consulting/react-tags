@@ -1,0 +1,22 @@
+{
+  "name": "react-tags",
+  "version": "1.0.0",
+  "description": "Internal package extracted from https://github.com/i-like-robots/react-tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altipla-consulting/react-tags.git"
+  },
+  "author": "Nestor Arguello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altipla-consulting/react-tags/issues"
+  },
+  "homepage": "https://github.com/altipla-consulting/react-tags#readme",
+  "dependencies": {
+    "react-tag-autocomplete": "^6.1.0"
+  }
+}

@@ -1,0 +1,1 @@
+export { default as ReactTags } from 'react-tag-autocomplete';
