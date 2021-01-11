@@ -15,5 +15,8 @@
   "homepage": "https://github.com/altipla-consulting/react-tags#readme",
   "dependencies": {
     "react-tag-autocomplete": "^6.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
