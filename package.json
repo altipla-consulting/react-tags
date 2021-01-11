@@ -1,6 +1,6 @@
 {
   "name": "@altipla/react-tags",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Internal package extracted from https://github.com/i-like-robots/react-tags",
   "main": "index.js",
   "repository": {
