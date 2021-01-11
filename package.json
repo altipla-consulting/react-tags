@@ -1,16 +1,13 @@
 {
-  "name": "react-tags",
+  "name": "@altipla/react-tags",
   "version": "1.0.0",
   "description": "Internal package extracted from https://github.com/i-like-robots/react-tags",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/altipla-consulting/react-tags.git"
   },
-  "author": "Nestor Arguello",
+  "author": "Altipla Consulting",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/altipla-consulting/react-tags/issues"
